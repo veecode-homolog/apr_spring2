@@ -1,0 +1,8 @@
+site_name: "apr_spring2"
+site_description: "teste"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
